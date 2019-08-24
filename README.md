@@ -1,7 +1,7 @@
-# A GnuMP3d docker image based on Ubuntu 18.04 (Bionic)
+# A GnuMP3d docker image based on Ubuntu 16.04 (Xenial)
 
 ## Base Docker Image
-[Ubuntu](https://hub.docker.com/_/ubuntu) 18.04 (x64)
+[Ubuntu](https://hub.docker.com/_/ubuntu) 16.04 (x64)
 
 ## Software
 [GnuMP3d](https://www.gnu.org/software/gnump3d/)

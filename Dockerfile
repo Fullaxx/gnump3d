@@ -2,7 +2,7 @@
 # https://www.gnu.org/software/gnump3d/
 # ------------------------------------------------------------------------------
 # Pull base image
-FROM ubuntu:bionic
+FROM ubuntu:xenial
 MAINTAINER Brett Kuskie <fullaxx@gmail.com>
 
 # ------------------------------------------------------------------------------
