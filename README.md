@@ -4,7 +4,7 @@
 [Ubuntu](https://hub.docker.com/_/ubuntu) 18.04 (x64)
 
 ## Software
-[GnuMP3d](https://www.gnu.org/software/gnump3d/)
+[GnuMP3d](https://www.gnu.org/software/gnump3d/) is a streaming server for MP3s, OGG vorbis files, movies and other media formats
 
 ## Get the image from Docker Hub
 ```
